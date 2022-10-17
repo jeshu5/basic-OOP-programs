@@ -3,9 +3,9 @@ using namespace std;
 int main()
 {
 	float number1, number2, sum, average;
-	cout << "enter two numbers: ";  //promot
-	cin >> number1;         // read numbers
-	cin >> number2;         //from keyboard
+	cout << "enter two numbers: ";  
+	cin >> number1;         
+	cin >> number2;         
 	
 	sum= number1 + number2;
 	average=sum/2;
